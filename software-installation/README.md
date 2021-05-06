@@ -80,7 +80,7 @@ Or you can search for "Terminal" in the spotlight (use press cmd-space).
 
 <img src="images/comd_prompt_osx.png" alt="cmd_prompt_osx" width="450"/>
 
-This will bring up a screen where you can type commands. Continue to the next section on [Installing additional tools using conda](#installing-additional-tools-using-conda)
+This will bring up a screen where you can type commands. Continue to the next section on [Installing additional tools](#installing-additional-tools)
 
 ### Installing additional tools
 
